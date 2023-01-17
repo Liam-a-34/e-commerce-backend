@@ -24,6 +24,14 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ## Previews
 
+
+https://user-images.githubusercontent.com/113379247/212982162-4e542241-d976-4b69-9fef-24add79d68cc.mp4
+
+
+
+https://user-images.githubusercontent.com/113379247/212982176-f7f5128c-df40-45da-a59b-f23aabc42d1f.mp4
+
+
 ## License
 
 See LICENSE in repo
